@@ -1,0 +1,11 @@
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\SosLibraryArchiver.exe.config
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\SosLibraryArchiver.csprojResolveAssemblyReference.cache
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\SosLibraryArchiver.exe
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\SosLibraryArchiver.pdb
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\SosLibraryArchiver.exe
+C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\SosLibraryArchiver.pdb
+C:\Users\apo\Documents\Visual Studio 2012\Projects\SosLibraryArchiver\SosLibraryArchiver\bin\Release\SosLibraryArchiver.exe.config
+C:\Users\apo\Documents\Visual Studio 2012\Projects\SosLibraryArchiver\SosLibraryArchiver\obj\Release\SosLibraryArchiver.exe
+C:\Users\apo\Documents\Visual Studio 2012\Projects\SosLibraryArchiver\SosLibraryArchiver\obj\Release\SosLibraryArchiver.pdb
+C:\Users\apo\Documents\Visual Studio 2012\Projects\SosLibraryArchiver\SosLibraryArchiver\bin\Release\SosLibraryArchiver.exe
+C:\Users\apo\Documents\Visual Studio 2012\Projects\SosLibraryArchiver\SosLibraryArchiver\bin\Release\SosLibraryArchiver.pdb
