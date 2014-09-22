@@ -1,6 +1,0 @@
-c:\users\apo\documents\visual studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\LibraryArchiver.exe.config
-c:\users\apo\documents\visual studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\LibraryArchiver.exe
-c:\users\apo\documents\visual studio 2012\Projects\LibraryArchiver\LibraryArchiver\bin\Release\LibraryArchiver.pdb
-c:\users\apo\documents\visual studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\LibraryArchiver.exe
-c:\users\apo\documents\visual studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\LibraryArchiver.pdb
-C:\Users\apo\Documents\Visual Studio 2012\Projects\LibraryArchiver\LibraryArchiver\obj\Release\LibraryArchiver.csprojResolveAssemblyReference.cache
