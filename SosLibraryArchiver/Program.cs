@@ -12,12 +12,6 @@ namespace SosLibraryArchiver
   {
     #region Public Methods and Operators
 
-    private static void PrintError(string message)
-    {
-      Console.WriteLine(message);
-      Console.ReadKey();
-    }
-
     public static bool? IsX86Lib(string pFilePath)
     {
       ushort architecture = 0;
@@ -96,6 +90,12 @@ namespace SosLibraryArchiver
       string pathToDll = args[0];
 
       ProcessLibrary(pathToDll, new HashSet<string>());
+    }
+
+    private static void PrintError(string message)
+    {
+      Console.WriteLine(message);
+      Console.ReadKey();
     }
 
     private static void ProcessLibrary(string pathToDll, HashSet<string> alreadyProcessed)
