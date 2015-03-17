@@ -42,7 +42,7 @@ namespace SosLibraryArchiver
 
       if (!validValueIsPresent)
       {
-        CreateContextMenuRegistration(shellCommandValue);
+        CreateContextMenuRegistration(shellCommandValue, pathToExe + ",0");
       }
     }
 
@@ -73,10 +73,14 @@ namespace SosLibraryArchiver
 
     #region Methods
 
-    private static void CreateContextMenuRegistration(string commandValue)
+    private static void CreateContextMenuRegistration(string commandValue, string iconPath)
     {
       RegistryKey commandKey = Registry.ClassesRoot.CreateSubKey(ShellCommandPath);
       commandKey.SetValue(string.Empty, commandValue, RegistryValueKind.String);
+
+	    
+			RegistryKey shellAppKey = Registry.ClassesRoot.CreateSubKey(ShellApplicationPath);
+			shellAppKey.SetValue("Icon", iconPath,RegistryValueKind.String);
     }
 
     private static RegistryKey GetAppKey()
